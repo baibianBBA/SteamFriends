@@ -16,8 +16,7 @@
 
 | Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS         | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2024-10-08 13:22:19 |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT              | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2024-10-08 13:22:19 |
+
 | ![](https://avatars.steamstatic.com/892f61e97fdda20b1c58dbb8e4b6fa91e2e94d75.jpg) | 可口可乐i             | [76561198370056748](https://steamcommunity.com/profiles/76561198370056748/) | ✅           | 2024-05-23 22:06:38 |          |                     |
 | ![](https://avatars.steamstatic.com/2da44da6f90f5652341ee5b4fe0dba2a2b82f451.jpg) | さくら°              | [76561198344068866](https://steamcommunity.com/profiles/76561198344068866/) | ✅           | 2024-05-17 07:52:21 |          |                     |
 | ![](https://avatars.steamstatic.com/69aa26c5b4fbf400872cfeb4a262eab276e765d8.jpg) | 离燚LeYay           | [76561198867001422](https://steamcommunity.com/profiles/76561198867001422/) | ✅           | 2021-02-16 13:33:02 |          |                     |
