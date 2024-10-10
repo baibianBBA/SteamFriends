@@ -16,7 +16,6 @@
 
 | Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-
 | ![](https://avatars.steamstatic.com/892f61e97fdda20b1c58dbb8e4b6fa91e2e94d75.jpg) | 可口可乐i             | [76561198370056748](https://steamcommunity.com/profiles/76561198370056748/) | ✅           | 2024-05-23 22:06:38 |          |                     |
 | ![](https://avatars.steamstatic.com/2da44da6f90f5652341ee5b4fe0dba2a2b82f451.jpg) | さくら°              | [76561198344068866](https://steamcommunity.com/profiles/76561198344068866/) | ✅           | 2024-05-17 07:52:21 |          |                     |
 | ![](https://avatars.steamstatic.com/69aa26c5b4fbf400872cfeb4a262eab276e765d8.jpg) | 离燚LeYay           | [76561198867001422](https://steamcommunity.com/profiles/76561198867001422/) | ✅           | 2021-02-16 13:33:02 |          |                     |
